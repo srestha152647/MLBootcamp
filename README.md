@@ -1,2 +1,4 @@
 # MLBootcamp
-Logistic Regression, Neural Networks
+Classification of images as Cat or Non Cat using 
+1. Logistic Regression
+2. Neural Networks
